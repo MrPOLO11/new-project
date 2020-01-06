@@ -1,4 +1,7 @@
 <?php
+/**
+ *
+ */
 ?>
 
 <!doctype html>
@@ -12,5 +15,6 @@
 </head>
 <body>
     <h1>New Project</h1>
+    <h2>Here is a new heading</h2>
 </body>
 </html>
